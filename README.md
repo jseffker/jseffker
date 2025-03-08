@@ -1,4 +1,4 @@
-👋 Hi there
+👋 Hi there <br>
 <br>
 🌱 I’m currently learning: more about app dev and AI <br>
 👯 I’m looking to collaborate on: creative business and app ideas <br>
