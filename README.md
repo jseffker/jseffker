@@ -1,6 +1,6 @@
-🌱 I’m currently learning: more about app dev and AI
-👯 I’m looking to collaborate on: creative business and app ideas
-💬 Ask me about: AI and other emerging technologies
+🌱 I’m currently learning: more about app dev and AI <br>
+👯 I’m looking to collaborate on: creative business and app ideas <br>
+💬 Ask me about: AI and other emerging technologies <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jseffker&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
